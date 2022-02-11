@@ -1,14 +1,14 @@
-### Hi there 👋
-
+### Hi I am NASEEM A P
 ## I'm a Growing Developer, Data Scientist, Machine Learning Engineer, Open-Source & Python ❤!
 
 - 🔭 I’m currently working on Machine Learning, Tensorflow, Open-Source.
 - 🌱 I’m currently learning Web Designing:relaxed:
 - 👯 I’m looking to collaborate with other Machine Learning Engineers:heart_eyes: and AI Startups:heart:
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with 
 - 💬 Ask me about Machine Learning I try to answer
-- 📫 How to reach me: :e-mail:naseemalassampattil@gmailcom
-- ⚡ Fun fact: I love Travelling:tent:,bike ride:bike:, Food:yum:, Coding:computer:, Statup:heart:
+- 📫 How to reach me:
+     email: naseemalassampattil@gmail.com
+- ⚡ Fun fact: I love Travelling:tent:, bike ride:bike:, Food:yum:, Coding:computer:, Statup:heart:
 
 ### Connect with me:
 
@@ -31,7 +31,7 @@
   <img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/> 
   <img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/35/000000/git.png"/> 
-  <img src="https://img.icons8.com/color/35/000000/github.png"/> 
+  <img src="https://img.icons8.com/glyph-neue/35/000000/github.png"/>
   <img src="https://img.icons8.com/color/35/000000/tensorflow.png"/>
 </p>
 
