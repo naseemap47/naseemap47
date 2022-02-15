@@ -1,14 +1,13 @@
-### Hi I am NASEEM A P
-## I'm a Growing Developer, Data Scientist, Machine Learning Engineer, Open-Source & Python ❤!
+### Hi, I am NASEEM A P
+## I'm a Growing Developer, Data Scientist, Machine Learning Engineer and Open-Source
 
 - 🔭 I’m currently working on Machine Learning, Tensorflow, Open-Source.
-- 🌱 I’m currently learning Web Designing:relaxed:
-- 👯 I’m looking to collaborate with other Machine Learning Engineers:heart_eyes: and AI Startups:heart:
-- 🤔 I’m looking for help with 
+- 🌱 I’m currently learning Web Designing
+- 👯 I’m looking to collaborate with other Machine Learning Engineers and AI Startups
 - 💬 Ask me about Machine Learning I try to answer
 - 📫 How to reach me:
      email: naseemalassampattil@gmail.com
-- ⚡ Fun fact: I love Travelling:tent:, bike ride:bike:, Food:yum:, Coding:computer:, Statup:heart:
+- ⚡ Fun fact: I love, bike-ride, Food, Coding, Startup and Travelling
 
 ### Connect with me:
 
