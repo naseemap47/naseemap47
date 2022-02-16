@@ -28,6 +28,7 @@
   <img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/> 
   <img src="https://img.icons8.com/color/35/000000/css3.png"/> 
   <img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/> 
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/30/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-color-tal-revivo.png"/>
   <img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/35/000000/git.png"/> 
   <img src="https://img.icons8.com/glyph-neue/35/000000/github.png"/>
