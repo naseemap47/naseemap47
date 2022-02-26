@@ -29,12 +29,12 @@
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/30/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-color-tal-revivo.png"/>
   <img src="https://img.icons8.com/color/36/000000/bootstrap.png"/>
   <img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/>
+  <img src="https://img.icons8.com/external-becris-flat-becris/35/000000/external-r-data-science-becris-flat-becris.png"/>
+  <img src="https://img.icons8.com/color/35/000000/tableau-software.png"/>
   <img src="https://img.icons8.com/color/35/000000/git.png"/> 
   <img src="https://img.icons8.com/glyph-neue/35/000000/github.png"/>
   <img src="https://img.icons8.com/color/35/000000/tensorflow.png"/>
   <img src="https://img.icons8.com/color/35/000000/python.png">
-  <img src="https://img.icons8.com/external-becris-flat-becris/35/000000/external-r-data-science-becris-flat-becris.png"/>
-  <img src="https://img.icons8.com/color/35/000000/tableau-software.png"/>
   <img src="https://img.icons8.com/fluency/38/000000/opencv.png"/>
 </p>
 
