@@ -1,8 +1,8 @@
 ### Hi, I am NASEEM A P
-## I'm a Growing Developer, Data Scientist, Machine Learning Engineer and Open-Source
+## I'm a Growing Developer, Data Scientist, Machine Learning Engineer, Front-end web Developer
 
-- 🔭 I’m currently working on Machine Learning, Tensorflow, Open-Source.
-- 🌱 I’m currently learning Web Designing
+- 🔭 I’m currently working on Machine Learning, Tensorflow, OpenCV
+- 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate with other Machine Learning Engineers and AI Startups
 - 💬 Ask me about Machine Learning I try to answer
 - 📫 How to reach me:
@@ -35,6 +35,7 @@
   <img src="https://img.icons8.com/color/35/000000/python.png">
   <img src="https://img.icons8.com/external-becris-flat-becris/35/000000/external-r-data-science-becris-flat-becris.png"/>
   <img src="https://img.icons8.com/color/35/000000/tableau-software.png"/>
+  <img src="https://img.icons8.com/fluency/38/000000/opencv.png"/>
 </p>
 
 ### <h2 align="center">Contribution Graph📚</h2>
