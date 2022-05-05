@@ -1,10 +1,10 @@
 ### Hi, I am NASEEM A P
-## I'm a Growing Developer, Data Scientist, Machine Learning Engineer, Front-end web Developer
+## I'm a Growing Developer, Data Scientist, Machine Learning Engineer, Front-end web Developer, Computer Vision Engineer
 
-- 🔭 I’m currently working on Machine Learning, Tensorflow, OpenCV
-- 🌱 I’m currently learning Web Development
+- 🔭 I’m currently working on Computer Vision, Tensorflow, OpenCV
+- 🌱 I’m currently learning about Computer Vision in Human Life
 - 👯 I’m looking to collaborate with other Machine Learning Engineers and AI Startups
-- 💬 Ask me about Machine Learning I try to answer
+- 💬 Ask me about Machine Learning I will try to answer
 - 📫 How to reach me:
      email: naseemalassampattil@gmail.com
 - ⚡ Fun fact: I love bike-ride, Food, Coding, Startup and Travelling
