@@ -1,5 +1,5 @@
 ### Hi, I am NASEEM A P
-## I'm a Growing Developer, Data Scientist, Machine Learning Engineer, Computer Vision Engineer
+## I'm a Growing Developer, Data Scientist, Machine Learning Engineer and Computer Vision Engineer
 
 - 🔭 I’m currently working on Computer Vision, MLOps
 - 🌱 I’m currently learning about Computer Vision in Human Life
