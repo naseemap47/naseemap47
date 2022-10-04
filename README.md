@@ -8,6 +8,7 @@
 - 📫 How to reach me:
      email: naseemalassampattil@gmail.com
 - ⚡ Fun fact: I love bike-ride, Food, Coding, Startup and Travelling
+- 📫 My Medium Blog: https://medium.com/@naseemap
 
 ### Connect with me:
 
