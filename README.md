@@ -1,9 +1,9 @@
 ### Hi, I am NASEEM A P
-## I'm a Growing Developer, Computer Vision Engineer
+## I'm a Growing Developer, AI Engineer
 
-- 🔭 I’m currently working on Computer Vision, MLOps
-- 🌱 I’m currently learning about GenAI
-- 👯 I’m looking to collaborate with other Computer Vision Engineers and AI Startups
+- 🔭 I’m currently working on Agentic Workflows
+- 🌱 I’m currently learning about LLMOps
+- 👯 I’m looking to collaborate with other AI Engineers and AI Startups
 - 💬 Ask me about Computer Vision, I will try to answer
 - 📫 How to reach me:
      email: naseemalassampattil@gmail.com
